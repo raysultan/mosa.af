@@ -1,0 +1,20 @@
+{
+  "name": "mosa.af",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portfolio of Muhammad Mosa — graphics & motion designer",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
